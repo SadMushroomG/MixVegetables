@@ -1,0 +1,15 @@
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\bin\Debug\net6.0\CpppTestground.exe
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\bin\Debug\net6.0\CpppTestground.deps.json
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\bin\Debug\net6.0\CpppTestground.runtimeconfig.json
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\bin\Debug\net6.0\CpppTestground.dll
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\bin\Debug\net6.0\CpppTestground.pdb
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.csproj.AssemblyReference.cache
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.AssemblyInfoInputs.cache
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.AssemblyInfo.cs
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.csproj.CoreCompileInputs.cache
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.dll
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\refint\CpppTestground.dll
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.pdb
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\CpppTestground.genruntimeconfig.cache
+D:\Project\Unity\MixVegetable\MixVegetables\CpppTestground\CpppTestground\obj\Debug\net6.0\ref\CpppTestground.dll
