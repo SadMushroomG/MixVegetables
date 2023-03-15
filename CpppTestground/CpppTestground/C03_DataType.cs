@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MushroomLab
+namespace CpppTestground
 {
     class C03_DataType
     {
@@ -71,11 +71,7 @@ namespace MushroomLab
         
         }
 
-        //public void StringType()
-        //{
-        //    String str = "MushroomLab";
-        //    str = str;
-        //}
-
+        //字符串
+        //指针
     }
 }

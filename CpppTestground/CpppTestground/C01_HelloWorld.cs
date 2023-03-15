@@ -1,5 +1,5 @@
 ﻿using System;
-namespace MushroomLab
+namespace CpppTestground
 {
     class C01_HelloWorld
     {

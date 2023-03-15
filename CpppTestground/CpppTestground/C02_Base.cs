@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MushroomLab
+namespace CpppTestground
 {
     class C02_Base
     {
